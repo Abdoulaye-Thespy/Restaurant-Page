@@ -1,8 +1,6 @@
 export const pageLoad = () =>{
     let content = document.getElementById('content');
-    
     let title = document.createElement('h1');
-    
     title.className= 'title';
     title.appendChild(document.createTextNode('AFRO RESTAURANT'));
     content.appendChild(title);
@@ -18,8 +16,15 @@ export const pageLoad = () =>{
     textTwo.className = 'text';
     textTwo.appendChild(document.createTextNode('No matter small or large, we can accomodate your next event. We can create a customized meal that will adhere to every dietary need. Think of us for your next wedding, conference, or other large event'));
     content.appendChild(textTwo);
+    
+    document.getElementById('footer').innerHTML = `<footer class="page-footer font-small blue">
+
+  <!-- Copyright -->
+  <div class="footer-copyright text-center py-3">© 2020 Copyright:
+    <p>AbdoulayeTheSpy</p>
+  </div>
+  <!-- Copyright -->
+
+</footer>`;
 }
 
-export const name= () =>{
-    console.log('Abdoulaye');
-}
