@@ -1,7 +1,7 @@
 # Restaurant-Page
 
 
-## [LiveDemo](https://abdoulaye-thespy.github.io/Tic-Tac-Toe-JS/)
+## [LiveDemo](https://abdoulaye-thespy.github.io/Restaurant-Page/#)
 
 ## Project descipription
 
