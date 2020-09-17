@@ -19,7 +19,6 @@ const homePage = () => {
 const Pagemenu = () => {
   content.innerHTML = '';
   menuPage();
-  menuBot.style.color = '#fff';
 };
 
 contactBot.addEventListener('click', contPage);
