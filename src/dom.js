@@ -1,5 +1,5 @@
+export const content = document.getElementById('content');
 export const pageLoad = () => {
-  const content = document.getElementById('content');
   const title = document.createElement('h1');
   title.className = 'title';
   title.appendChild(document.createTextNode('AFRO RESTAURANT'));

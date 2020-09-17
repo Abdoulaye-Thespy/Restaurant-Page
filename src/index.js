@@ -1,8 +1,7 @@
-import { pageLoad } from './dom';
+import { content, pageLoad } from './dom';
 import { contactBot, contactPage } from './contact';
 import { menuBot, menuPage } from './menu';
 
-const content = document.getElementById('content');
 const homeBot = document.getElementById('home');
 
 pageLoad();
