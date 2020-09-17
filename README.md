@@ -12,11 +12,12 @@
 ## Screenshots
 
 # Welcome page
-![screenshot](./R1.png)
+![screenshot](R1.jpeg)
 # Contact page
-![screenshot](./R2.png)
+![screenshot](R2.jpeg)
 # Menu page
-![screenshot](./R4.png)
+![screenshot](R4.jpeg)
+![screenshot](restaurant2.jpeg)
 
 ## Built with
 
