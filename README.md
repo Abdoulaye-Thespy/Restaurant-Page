@@ -3,11 +3,11 @@
 
 ## [LiveDemo](https://abdoulaye-thespy.github.io/Tic-Tac-Toe-JS/)
 
-## Project descipription
+## Project description
 
 - As this project is still under reviews the design is not quite it yet.
 
-- We have have an an app where the famous game Tic tac toe can be played using Vanilla javascript.
+- This is a Restaurant-Page Built using javascript and Webpack to bundle multiple files of javascript.
 
 ## Built with
 
