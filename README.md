@@ -12,11 +12,11 @@
 ## Screenshots
 
 # Welcome page
-![screenshot](R1.png)
+![screenshot](./R1.png)
 # Contact page
-![screenshot](R2.png)
+![screenshot](./R2.png)
 # Menu page
-![screenshot](R4.png)
+![screenshot](./R4.png)
 
 ## Built with
 
