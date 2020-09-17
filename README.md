@@ -8,6 +8,15 @@
 - As this project is still under reviews the design is not quite it yet.
 
 - This is a Restaurant-Page Built using javascript and Webpack to bundle multiple files of javascript.
+- 
+## Screenshots
+
+# Welcome page
+![screenshot](R1.png)
+# Contact page
+![screenshot](R2.png)
+# Menu page
+![screenshot](R4.png)
 
 ## Built with
 
